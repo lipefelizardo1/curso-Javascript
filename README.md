@@ -1,2 +1,2 @@
 # curso-Javascript
- exercícios do curo javascript do curso-em-video
+ exercícios javascript do curso-em-video
